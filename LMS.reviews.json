@@ -1,0 +1,56 @@
+[{
+  "_id": {
+    "$oid": "66d204ada567f3db873bf504"
+  },
+  "reviewText": "Saumika sir is an excellent teacher. Glad I found him through this website.",
+  "rating": 5,
+  "userId": {
+    "$oid": "66cf6df7004c7ebc8f94f475"
+  },
+  "publishedDate": {
+    "$date": "2024-08-30T17:43:09.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d336a4e812e8718ee497b3"
+  },
+  "reviewText": "Glad, I found this website. Because of this, I start loving the subject and now Chemistry is my favorite subject.",
+  "rating": 5,
+  "userId": {
+    "$oid": "66cf6ef2004c7ebc8f94f47c"
+  },
+  "publishedDate": {
+    "$date": "2024-08-31T15:28:36.707Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d33ed2a165c0e7247bcfce"
+  },
+  "reviewText": "Forum and discussion boards are great for connecting with other students.",
+  "rating": 4,
+  "userId": {
+    "$oid": "66d339712ab375dbe0cd4f5c"
+  },
+  "publishedDate": {
+    "$date": "2024-08-31T16:03:30.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d361275d2afeed813ad998"
+  },
+  "reviewText": "I will recommend this website for everyone who is seeking help to improve their Chemistry knowledge.",
+  "rating": 5,
+  "userId": {
+    "$oid": "66d34a092ab375dbe0cd4f5e"
+  },
+  "publishedDate": {
+    "$date": "2024-08-31T18:29:59.517Z"
+  },
+  "__v": 0
+}]

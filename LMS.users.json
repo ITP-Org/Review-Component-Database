@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "66cf6d41004c7ebc8f94f470"
+  },
+  "firstname": "John",
+  "lastname": "Doe",
+  "username": "johndoe",
+  "password": "john123",
+  "profilePicture": "https://via.placeholder.com/100",
+  "loginStatus": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66cf6df7004c7ebc8f94f475"
+  },
+  "firstname": "Jane",
+  "lastname": "Smith",
+  "username": "janesmith",
+  "password": "janes456",
+  "profilePicture": "https://via.placeholder.com/100",
+  "loginStaus": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66cf6ef2004c7ebc8f94f47c"
+  },
+  "firstname": "Alex",
+  "lastname": "Johnson",
+  "username": "alexjohnson",
+  "password": "alex123j",
+  "profilePicture": "https://via.placeholder.com/100",
+  "loginStatus": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66d339712ab375dbe0cd4f5c"
+  },
+  "firstname": "Emily",
+  "lastname": "Davis",
+  "username": "emilydavis",
+  "password": "emilyd234",
+  "profilePicture": "https://via.placeholder.com/100",
+  "loginStatus": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66d34a092ab375dbe0cd4f5e"
+  },
+  "firstname": "Chris",
+  "lastname": "Lee",
+  "username": "chrislee",
+  "password": "clee123",
+  "profilePicture": "https://via.placeholder.com/100",
+  "loginStatus": "Yes"
+},
+{
+  "_id": {
+    "$oid": "66e8508f50cc8b16fbc1c78e"
+  },
+  "firstname": "Kumar",
+  "lastname": "Sanga",
+  "username": "kumarsanga",
+  "password": "kumar123",
+  "profilePicture": "https://via.placeholder.com/100",
+  "loginStatus": "Yes"
+}]
